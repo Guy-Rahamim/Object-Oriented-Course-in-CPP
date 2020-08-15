@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="experiment.cpp" />
     <ClCompile Include="q1.cpp" />
     <ClCompile Include="q2.cpp" />
     <ClCompile Include="q3.cpp" />
